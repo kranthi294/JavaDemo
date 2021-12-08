@@ -1,0 +1,197 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch BankApplication",
+            "request": "launch",
+            "mainClass": "com.prowess.java.banking.BankApplication",
+            "projectName": "Demo"
+        },
+        {
+            "type": "java",
+            "name": "Launch bankApplication",
+            "request": "launch",
+            "mainClass": "com.prowess.java.banking.bankApplication",
+            "projectName": "Demo"
+        },
+        {
+            "type": "java",
+            "name": "Launch application",
+            "request": "launch",
+            "mainClass": "com.prowess.java.banking.application",
+            "projectName": "Demo"
+        },
+        {
+            "type": "java",
+            "name": "Launch application",
+            "request": "launch",
+            "mainClass": "package com.prowess.java.banking.application",
+            "projectName": "Demo"
+        },
+        {
+            "type": "java",
+            "name": "Launch AbstractionDemo",
+            "request": "launch",
+            "mainClass": "com.prowess.java.AbstractionDemo",
+            "projectName": "Demo"
+        },
+        {
+            "type": "java",
+            "name": "Launch AccessTest",
+            "request": "launch",
+            "mainClass": "com.prowess.java.AccessTest",
+            "projectName": "Demo"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayDemo",
+            "request": "launch",
+            "mainClass": "com.prowess.java.ArrayDemo",
+            "projectName": "Demo"
+        },
+        {
+            "type": "java",
+            "name": "Launch ConstructorChainDemo",
+            "request": "launch",
+            "mainClass": "com.prowess.java.ConstructorChainDemo",
+            "projectName": "Demo"
+        },
+        {
+            "type": "java",
+            "name": "Launch ConstructorDemo",
+            "request": "launch",
+            "mainClass": "com.prowess.java.ConstructorDemo",
+            "projectName": "Demo"
+        },
+        {
+            "type": "java",
+            "name": "Launch Datatypes",
+            "request": "launch",
+            "mainClass": "com.prowess.java.Datatypes",
+            "projectName": "Demo"
+        },
+        {
+            "type": "java",
+            "name": "Launch EncapsulationDemo",
+            "request": "launch",
+            "mainClass": "com.prowess.java.EncapsulationDemo",
+            "projectName": "Demo"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExceptionDemo",
+            "request": "launch",
+            "mainClass": "com.prowess.java.ExceptionDemo",
+            "projectName": "Demo"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExceptionDemo2",
+            "request": "launch",
+            "mainClass": "com.prowess.java.ExceptionDemo2",
+            "projectName": "Demo"
+        },
+        {
+            "type": "java",
+            "name": "Launch FileIODemo",
+            "request": "launch",
+            "mainClass": "com.prowess.java.FileIODemo",
+            "projectName": "Demo"
+        },
+        {
+            "type": "java",
+            "name": "Launch FinalDemo",
+            "request": "launch",
+            "mainClass": "com.prowess.java.FinalDemo",
+            "projectName": "Demo"
+        },
+        {
+            "type": "java",
+            "name": "Launch HasDemo",
+            "request": "launch",
+            "mainClass": "com.prowess.java.HasDemo",
+            "projectName": "Demo"
+        },
+        {
+            "type": "java",
+            "name": "Launch InheritDemo",
+            "request": "launch",
+            "mainClass": "com.prowess.java.InheritDemo",
+            "projectName": "Demo"
+        },
+        {
+            "type": "java",
+            "name": "Launch InterfaceDemo",
+            "request": "launch",
+            "mainClass": "com.prowess.java.InterfaceDemo",
+            "projectName": "Demo"
+        },
+        {
+            "type": "java",
+            "name": "Launch InterfaceExtendDemo",
+            "request": "launch",
+            "mainClass": "com.prowess.java.InterfaceExtendDemo",
+            "projectName": "Demo"
+        },
+        {
+            "type": "java",
+            "name": "Launch InterfacePriDefDemo",
+            "request": "launch",
+            "mainClass": "com.prowess.java.InterfacePriDefDemo",
+            "projectName": "Demo"
+        },
+        {
+            "type": "java",
+            "name": "Launch MainDemo",
+            "request": "launch",
+            "mainClass": "com.prowess.java.MainDemo",
+            "projectName": "Demo"
+        },
+        {
+            "type": "java",
+            "name": "Launch MethodOverloadingDemo",
+            "request": "launch",
+            "mainClass": "com.prowess.java.MethodOverloadingDemo",
+            "projectName": "Demo"
+        },
+        {
+            "type": "java",
+            "name": "Launch MultiIntImpDemo",
+            "request": "launch",
+            "mainClass": "com.prowess.java.MultiIntImpDemo",
+            "projectName": "Demo"
+        },
+        {
+            "type": "java",
+            "name": "Launch RegexDemo",
+            "request": "launch",
+            "mainClass": "com.prowess.java.RegexDemo",
+            "projectName": "Demo"
+        },
+        {
+            "type": "java",
+            "name": "Launch StaticDemo",
+            "request": "launch",
+            "mainClass": "com.prowess.java.StaticDemo",
+            "projectName": "Demo"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringDemo",
+            "request": "launch",
+            "mainClass": "com.prowess.java.StringDemo",
+            "projectName": "Demo"
+        },
+        {
+            "type": "java",
+            "name": "Launch SuperKeywordDemo",
+            "request": "launch",
+            "mainClass": "com.prowess.java.SuperKeywordDemo",
+            "projectName": "Demo"
+        }
+    ]
+}
